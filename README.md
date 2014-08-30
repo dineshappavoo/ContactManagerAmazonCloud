@@ -1,4 +1,5 @@
-Big Number Arithmetic
+CONTACT MANAGER CLOUD
+
 =======================
 
 Developed a contact manager application to manage university contacts using Amazon cloud (SimpleDB) 
