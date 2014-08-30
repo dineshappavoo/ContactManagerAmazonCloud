@@ -1,4 +1,4 @@
-CONTACT MANAGER CLOUD
+Contact Manager Cloud 
 =======================
 
 Developed a contact manager application to manage university contacts using Amazon cloud (SimpleDB) 
