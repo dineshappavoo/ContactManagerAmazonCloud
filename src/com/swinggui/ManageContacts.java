@@ -14,7 +14,7 @@ import java.awt.event.MouseListener;
 import java.util.ArrayList;
 
 /**
- *@author Dany
+ *@author Dinesh Appavoo
  */
 public class ManageContacts extends JFrame {
 
