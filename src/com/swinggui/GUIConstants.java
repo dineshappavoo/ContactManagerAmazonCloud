@@ -7,7 +7,7 @@ package com.swinggui;
 
 
 /**
- * @author Dany
+ * @author Dinesh Appavoo
  *
  */
 public class GUIConstants {
